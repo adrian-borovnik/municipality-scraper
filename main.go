@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"github.com/gocolly/colly"
 	"io"
@@ -9,33 +10,57 @@ import (
 	"strings"
 )
 
-func downloadImage(url string, outFolder string) error {
+func normalizeFileName(fileName string) string {
+	fileName = strings.ToLower(fileName)
+	fileName = strings.ReplaceAll(fileName, "č", "c")
+	fileName = strings.ReplaceAll(fileName, "š", "s")
+	fileName = strings.ReplaceAll(fileName, "ž", "z")
+	fileName = strings.ReplaceAll(fileName, " ", "_")
+	fileName = strings.ReplaceAll(fileName, "–", "_")
+	fileName = strings.ReplaceAll(fileName, "-", "_")
+	return fileName
+}
+
+func downloadImage(url string, outFolder string, fileName string) (string, error) {
 	res, err := http.Get(url)
 	if err != nil {
-		return err
+		return "", err
 	}
 	defer res.Body.Close()
 
 	if res.StatusCode != http.StatusOK {
-		return fmt.Errorf(res.Status)
+		return "", fmt.Errorf(res.Status)
 	}
 
-	splitUrl := strings.Split(url, "/")
-	fileName := splitUrl[len(splitUrl)-1]
+	splitUrl := strings.Split(url, ".")
+	fileExtension := splitUrl[len(splitUrl)-1]
 
-	file, err := os.Create(outFolder + "/" + fileName)
+	fileName = normalizeFileName(fileName)
+
+	path := fmt.Sprintf("%s/%s.%s", outFolder, fileName, fileExtension)
+	file, err := os.Create(path)
 	if err != nil {
-		return err
+		return "", err
 	}
 	defer file.Close()
 
 	_, err = io.Copy(file, res.Body)
-	return err
+	if err != nil {
+		return "", err
+	}
+
+	return path, nil
+}
+
+type Municipality struct {
+	Name string `json:"name"`
+	Path string `json:"path"`
 }
 
 func main() {
 
-	var municipalities []string
+	var municipalities []Municipality
+	currentMunicipality := ""
 
 	c := colly.NewCollector()
 
@@ -44,15 +69,14 @@ func main() {
 			return
 		}
 
+		municipality := strings.ReplaceAll(e.Text, "Municipality of ", "")
+		municipality = strings.ReplaceAll(municipality, "Urban ", "")
+		currentMunicipality = municipality
+
 		err := c.Visit(e.Request.AbsoluteURL(e.Attr("href")))
 		if err != nil {
 			fmt.Println(err)
 		}
-
-		municipality := strings.ReplaceAll(e.Text, "Municipality of ", "")
-		municipality = strings.ReplaceAll(municipality, "Urban ", "")
-		municipalities = append(municipalities, municipality)
-		fmt.Println(municipality)
 	})
 
 	c.OnHTML(".infobox a[title]", func(e *colly.HTMLElement) {
@@ -68,17 +92,18 @@ func main() {
 		}
 	})
 
-	c.OnHTML(".fullImageLink img[src]", func(e *colly.HTMLElement) {
-		alt := e.Attr("alt")
-		if !strings.Contains(alt, "File:") {
-			return
-		}
-
-		url := e.Attr("src")
-		err := downloadImage(e.Request.AbsoluteURL(url), "./out")
+	c.OnHTML(".fullMedia > p > a", func(e *colly.HTMLElement) {
+		url := e.Attr("href")
+		fmt.Println("Downloading COA of Municipality of " + currentMunicipality)
+		imgPath, err := downloadImage(e.Request.AbsoluteURL(url), "./out", currentMunicipality)
 		if err != nil {
 			fmt.Println(err)
 		}
+
+		municipalities = append(municipalities, Municipality{
+			Name: currentMunicipality,
+			Path: imgPath,
+		})
 	})
 
 	//c.OnRequest(func(r *colly.Request) {
@@ -91,4 +116,12 @@ func main() {
 	}
 
 	fmt.Println(len(municipalities))
+	jsonBytes, err := json.Marshal(municipalities)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	if err := os.WriteFile("./out/_data.json", jsonBytes, 0644); err != nil {
+		fmt.Println(err)
+	}
 }
