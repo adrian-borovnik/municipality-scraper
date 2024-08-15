@@ -22,14 +22,14 @@ func normalizeFileName(fileName string) string {
 }
 
 func downloadImage(url string, outFolder string, fileName string) (string, error) {
-	res, err := http.Get(url)
+	resp, err := http.Get(url)
 	if err != nil {
 		return "", err
 	}
-	defer res.Body.Close()
+	defer resp.Body.Close()
 
-	if res.StatusCode != http.StatusOK {
-		return "", fmt.Errorf(res.Status)
+	if resp.StatusCode != http.StatusOK {
+		return "", fmt.Errorf(resp.Status)
 	}
 
 	splitUrl := strings.Split(url, ".")
@@ -44,34 +44,54 @@ func downloadImage(url string, outFolder string, fileName string) (string, error
 	}
 	defer file.Close()
 
-	_, err = io.Copy(file, res.Body)
+	_, err = io.Copy(file, resp.Body)
 	if err != nil {
 		return "", err
 	}
 
-	return path, nil
+	return fmt.Sprintf("%s.%s", fileName, fileExtension), nil
 }
 
 type Municipality struct {
+	Id   int    `json:"id"`
+	Code string `json:"code"`
 	Name string `json:"name"`
-	Path string `json:"path"`
+	Img  string `json:"img"`
 }
 
 func main() {
+	const UrlStr = "https://en.wikipedia.org/wiki/Municipalities_of_Slovenia"
 
 	var municipalities []Municipality
-	currentMunicipality := ""
+	var currentMunicipality *Municipality
 
 	c := colly.NewCollector()
+
+	//c.OnHTML(".wikitable tbody tr > td:first-child", func(e *colly.HTMLElement) {
+	//	URL, err := url2.Parse(UrlStr)
+	//	if err != nil {
+	//		log.Fatalln(err)
+	//	}
+	//
+	//	if e.Request.URL.Host != URL.Host || e.Request.URL.Path != URL.Path {
+	//		return
+	//	}
+	//
+	//
+	//})
 
 	c.OnHTML(".wikitable td a", func(e *colly.HTMLElement) {
 		if !strings.Contains(e.Text, "Municipality") {
 			return
 		}
 
-		municipality := strings.ReplaceAll(e.Text, "Municipality of ", "")
-		municipality = strings.ReplaceAll(municipality, "Urban ", "")
-		currentMunicipality = municipality
+		name := strings.ReplaceAll(e.Text, "Municipality of ", "")
+		name = strings.ReplaceAll(name, "Urban ", "")
+
+		currentMunicipality = &Municipality{
+			Id:   len(municipalities),
+			Name: name,
+		}
 
 		err := c.Visit(e.Request.AbsoluteURL(e.Attr("href")))
 		if err != nil {
@@ -94,28 +114,23 @@ func main() {
 
 	c.OnHTML(".fullMedia > p > a", func(e *colly.HTMLElement) {
 		url := e.Attr("href")
-		fmt.Println("Downloading COA of Municipality of " + currentMunicipality)
-		imgPath, err := downloadImage(e.Request.AbsoluteURL(url), "./out", currentMunicipality)
+		fmt.Println("Downloading COA of Municipality of " + currentMunicipality.Name)
+		imgName, err := downloadImage(e.Request.AbsoluteURL(url), "./out", currentMunicipality.Name)
 		if err != nil {
 			fmt.Println(err)
 		}
 
-		municipalities = append(municipalities, Municipality{
-			Name: currentMunicipality,
-			Path: imgPath,
-		})
+		currentMunicipality.Img = imgName
+		municipalities = append(municipalities, *currentMunicipality)
 	})
 
-	//c.OnRequest(func(r *colly.Request) {
-	//	fmt.Println(r.URL)
-	//})
-
-	err := c.Visit("https://en.wikipedia.org/wiki/Municipalities_of_Slovenia")
+	err := c.Visit(UrlStr)
 	if err != nil {
 		fmt.Println(err)
 	}
 
 	fmt.Println(len(municipalities))
+
 	jsonBytes, err := json.Marshal(municipalities)
 	if err != nil {
 		fmt.Println(err)
