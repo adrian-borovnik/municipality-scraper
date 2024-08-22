@@ -52,7 +52,7 @@ func downloadImage(url string, outFolder string, fileName string) (string, error
 	return fmt.Sprintf("%s.%s", fileName, fileExtension), nil
 }
 
-type Municipality struct {
+type MunicipalityInfo struct {
 	Id   int    `json:"id"`
 	Code string `json:"code"`
 	Name string `json:"name"`
@@ -61,11 +61,15 @@ type Municipality struct {
 
 func main() {
 	const UrlStr = "https://en.wikipedia.org/wiki/Municipalities_of_Slovenia"
+	const CtxKey = "info"
+	var municipalities []MunicipalityInfo
 
-	var municipalities []Municipality
-	var currentMunicipality *Municipality
+	c := colly.NewCollector(
+	//colly.Async(true),
+	)
 
-	c := colly.NewCollector()
+	coaCollector := c.Clone()
+	imageCollector := c.Clone()
 
 	//c.OnHTML(".wikitable tbody tr > td:first-child", func(e *colly.HTMLElement) {
 	//	URL, err := url2.Parse(UrlStr)
@@ -88,46 +92,59 @@ func main() {
 		name := strings.ReplaceAll(e.Text, "Municipality of ", "")
 		name = strings.ReplaceAll(name, "Urban ", "")
 
-		currentMunicipality = &Municipality{
+		info := &MunicipalityInfo{
 			Id:   len(municipalities),
 			Name: name,
 		}
 
-		err := c.Visit(e.Request.AbsoluteURL(e.Attr("href")))
+		url := e.Request.AbsoluteURL(e.Attr("href"))
+		e.Response.Ctx.Put(CtxKey, info)
+		err := coaCollector.Request("GET", url, nil, e.Response.Ctx, nil)
 		if err != nil {
 			fmt.Println(err)
 		}
+
+		municipalities = append(municipalities, *info)
+
 	})
 
-	c.OnHTML(".infobox a[title]", func(e *colly.HTMLElement) {
+	coaCollector.OnHTML(".infobox a[title]", func(e *colly.HTMLElement) {
 		title := e.Attr("title")
 		if !strings.Contains(title, "Coat") {
 			return
 		}
 
 		url := e.Request.AbsoluteURL(e.Attr("href"))
-		err := c.Visit(url)
+
+		// NOTE: e.Response.Ctx is being passed forward from the main collector to the imageCollector
+		err := imageCollector.Request("GET", url, nil, e.Response.Ctx, nil)
 		if err != nil {
 			fmt.Println(err)
 		}
+
 	})
 
-	c.OnHTML(".fullMedia > p > a", func(e *colly.HTMLElement) {
-		url := e.Attr("href")
-		fmt.Println("Downloading COA of Municipality of " + currentMunicipality.Name)
-		imgName, err := downloadImage(e.Request.AbsoluteURL(url), "./out", currentMunicipality.Name)
-		if err != nil {
-			fmt.Println(err)
-		}
+	imageCollector.OnHTML(".fullMedia > p > a", func(e *colly.HTMLElement) {
+		if info, ok := e.Response.Ctx.GetAny(CtxKey).(*MunicipalityInfo); ok == true {
 
-		currentMunicipality.Img = imgName
-		municipalities = append(municipalities, *currentMunicipality)
+			fmt.Printf("Downloading COA of Municipality of %s\n", info.Name)
+
+			url := e.Attr("href")
+			imgName, err := downloadImage(e.Request.AbsoluteURL(url), "./out", info.Name)
+			if err != nil {
+				fmt.Println(err)
+			}
+
+			info.Img = imgName
+		}
 	})
 
 	err := c.Visit(UrlStr)
 	if err != nil {
 		fmt.Println(err)
 	}
+
+	//c.Wait()
 
 	fmt.Println(len(municipalities))
 
@@ -136,7 +153,8 @@ func main() {
 		fmt.Println(err)
 	}
 
-	if err := os.WriteFile("./out/_data.json", jsonBytes, 0644); err != nil {
+	err = os.WriteFile("./out/_data.json", jsonBytes, 0644)
+	if err != nil {
 		fmt.Println(err)
 	}
 }
