@@ -1,13 +1,15 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
-	"github.com/gocolly/colly"
 	"io"
 	"net/http"
 	"os"
+	"strconv"
 	"strings"
+	"sync"
+
+	"github.com/gocolly/colly"
 )
 
 func normalizeFileName(fileName string) string {
@@ -53,74 +55,75 @@ func downloadImage(url string, outFolder string, fileName string) (string, error
 }
 
 type MunicipalityInfo struct {
-	Id   int    `json:"id"`
-	Code string `json:"code"`
-	Name string `json:"name"`
-	Img  string `json:"img"`
+	Id             int    `json:"id"`
+	Code           string `json:"code"`
+	Name           string `json:"name"`
+	Url            string `json:"url"`
+	ImgRedirectUrl string `json:"imgRedirectUrl"`
+	Img            string `json:"img"`
 }
 
 func main() {
-	const UrlStr = "https://en.wikipedia.org/wiki/Municipalities_of_Slovenia"
+	fmt.Println("Searching for coat of arms")
+
+	const BaseUrl = "https://sl.wikipedia.org"
+	const HomePageUrl = BaseUrl + "/wiki/Seznam_ob%C4%8Din_v_Sloveniji"
 	const CtxKey = "info"
-	var municipalities []MunicipalityInfo
+
+	var mutex sync.RWMutex
+	var municipalities = make(map[int]*MunicipalityInfo)
+	count := 0
 
 	c := colly.NewCollector(
-	//colly.Async(true),
+		colly.Async(true),
 	)
 
 	coaCollector := c.Clone()
 	imageCollector := c.Clone()
 
-	//c.OnHTML(".wikitable tbody tr > td:first-child", func(e *colly.HTMLElement) {
-	//	URL, err := url2.Parse(UrlStr)
-	//	if err != nil {
-	//		log.Fatalln(err)
-	//	}
-	//
-	//	if e.Request.URL.Host != URL.Host || e.Request.URL.Path != URL.Path {
-	//		return
-	//	}
-	//
-	//
-	//})
+	c.OnHTML(".wikitable tbody tr>td:nth-child(2) a", func(e *colly.HTMLElement) {
+		name := e.Text
+		url := e.Request.AbsoluteURL(e.Attr("href"))
 
-	c.OnHTML(".wikitable td a", func(e *colly.HTMLElement) {
-		if !strings.Contains(e.Text, "Municipality") {
-			return
-		}
-
-		name := strings.ReplaceAll(e.Text, "Municipality of ", "")
-		name = strings.ReplaceAll(name, "Urban ", "")
+		mutex.Lock()
+		count++
 
 		info := &MunicipalityInfo{
-			Id:   len(municipalities),
+			Id:   count,
 			Name: name,
+			Url:  url,
 		}
 
-		url := e.Request.AbsoluteURL(e.Attr("href"))
-		e.Response.Ctx.Put(CtxKey, info)
-		err := coaCollector.Request("GET", url, nil, e.Response.Ctx, nil)
-		if err != nil {
-			fmt.Println(err)
-		}
-
-		municipalities = append(municipalities, *info)
-
+		municipalities[count] = info
+		mutex.Unlock()
 	})
 
-	coaCollector.OnHTML(".infobox a[title]", func(e *colly.HTMLElement) {
+	coaCollector.OnHTML(".infobox .infobox-full-data>table>tbody span>a[title]", func(e *colly.HTMLElement) {
+		ctx := e.Request.Ctx
+		id := ctx.Get("id")
+
 		title := e.Attr("title")
-		if !strings.Contains(title, "Coat") {
+		if strings.Contains(title, "Zastava") {
 			return
 		}
 
-		url := e.Request.AbsoluteURL(e.Attr("href"))
+		href := e.Attr("href")
 
-		// NOTE: e.Response.Ctx is being passed forward from the main collector to the imageCollector
-		err := imageCollector.Request("GET", url, nil, e.Response.Ctx, nil)
-		if err != nil {
-			fmt.Println(err)
-		}
+		imgRedirectUrl := BaseUrl + href
+
+		idInt, _ := strconv.Atoi(id)
+		mutex.Lock()
+		m := municipalities[idInt]
+		m.ImgRedirectUrl = imgRedirectUrl
+		mutex.Unlock()
+
+		// url := e.Request.AbsoluteURL(e.Attr("href"))
+
+		// // NOTE: e.Response.Ctx is being passed forward from the main collector to the imageCollector
+		// err := imageCollector.Request("GET", url, nil, e.Response.Ctx, nil)
+		// if err != nil {
+		// 	fmt.Println(err)
+		// }
 
 	})
 
@@ -139,22 +142,37 @@ func main() {
 		}
 	})
 
-	err := c.Visit(UrlStr)
+	err := c.Visit(HomePageUrl)
 	if err != nil {
 		fmt.Println(err)
 	}
+	c.Wait()
 
-	//c.Wait()
+	for _, m := range municipalities {
+		ctx := colly.NewContext()
+		ctx.Put("id", strconv.Itoa(m.Id))
 
-	fmt.Println(len(municipalities))
+		err := coaCollector.Request("GET", m.Url, nil, ctx, nil)
+		if err != nil {
+			fmt.Println(err)
+			continue
+		}
+	}
+	coaCollector.Wait()
 
-	jsonBytes, err := json.Marshal(municipalities)
-	if err != nil {
-		fmt.Println(err)
+	for _, m := range municipalities {
+		fmt.Println(m.Id, m.Name, m.ImgRedirectUrl)
 	}
 
-	err = os.WriteFile("./out/_data.json", jsonBytes, 0644)
-	if err != nil {
-		fmt.Println(err)
-	}
+	// fmt.Println(len(municipalities))
+
+	// jsonBytes, err := json.Marshal(municipalities)
+	// if err != nil {
+	// 	fmt.Println(err)
+	// }
+
+	// err = os.WriteFile("./out/_data.json", jsonBytes, 0644)
+	// if err != nil {
+	// 	fmt.Println(err)
+	// }
 }
