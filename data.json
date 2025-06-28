@@ -1,341 +1,5 @@
 [
   {
-    "id": 84,
-    "name": "Ljubno",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ljubno",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ljubno.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ljubno.png"
-  },
-  {
-    "id": 149,
-    "name": "Selnica ob Dravi",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Selnica_ob_Dravi",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Selnica_ob_Dravi.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Selnica_ob_Dravi.png"
-  },
-  {
-    "id": 23,
-    "name": "Črenšovci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C4%8Cren%C5%A1ovci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C4%8Cren%C5%A1ovci_CoA.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/%C4%8Cren%C5%A1ovci_CoA.png"
-  },
-  {
-    "id": 189,
-    "name": "Trzin",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trzin",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Trzin.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Trzin.png"
-  },
-  {
-    "id": 197,
-    "name": "Vipava",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vipava",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vipava.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vipava.png"
-  },
-  {
-    "id": 123,
-    "name": "Podčetrtek",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Pod%C4%8Detrtek",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Pod%C4%8Detrtek.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pod%C4%8Detrtek.gif"
-  },
-  {
-    "id": 34,
-    "name": "Dolenjske Toplice",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dolenjske_Toplice",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Dolenjske_Toplice.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Dolenjske_Toplice.png"
-  },
-  {
-    "id": 103,
-    "name": "Mirna",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mirna",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Mirnagrb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mirnagrb.png"
-  },
-  {
-    "id": 210,
-    "name": "Žiri",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDiri",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_%C5%BDiri.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Coat_of_arm_of_%C5%BDiri.png"
-  },
-  {
-    "id": 81,
-    "name": "Lendava",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lendava",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Lendava.grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lendava.grb.png"
-  },
-  {
-    "id": 118,
-    "name": "Ormož",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ormo%C5%BE",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ormo%C5%BE.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ormo%C5%BE.png"
-  },
-  {
-    "id": 65,
-    "name": "Kobilje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kobilje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kobilje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kobilje.png"
-  },
-  {
-    "id": 69,
-    "name": "Koper",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Koper",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coa_Koper.grb.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coa_Koper.grb.svg"
-  },
-  {
-    "id": 121,
-    "name": "Piran",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Piran",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Wappen_piran.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wappen_piran.svg"
-  },
-  {
-    "id": 131,
-    "name": "Prevalje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Prevalje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Prevalje.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/COA-Prevalje.gif"
-  },
-  {
-    "id": 203,
-    "name": "Vuzenica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vuzenica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vuzenica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Vuzenica.png"
-  },
-  {
-    "id": 116,
-    "name": "Odranci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Odranci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Odranci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Odranci.png"
-  },
-  {
-    "id": 192,
-    "name": "Velenje",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Velenje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Velenja.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Grb_Velenja.svg"
-  },
-  {
-    "id": 21,
-    "name": "Cerkvenjak",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerkvenjak",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Cerkvenjak.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Coat_of_arms_of_Cerkvenjak.png"
-  },
-  {
-    "id": 35,
-    "name": "Domžale",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dom%C5%BEale",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dom%C5%BEale.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Dom%C5%BEale.png"
-  },
-  {
-    "id": 58,
-    "name": "Jesenice",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Jesenice",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Jesenice.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Grb_ob%C4%8Dine_Jesenice.svg"
-  },
-  {
-    "id": 18,
-    "name": "Cerklje na Gorenjskem",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerklje_na_Gorenjskem",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arm_of_Cerklje_na_Gorenjskem.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arm_of_Cerklje_na_Gorenjskem.png"
-  },
-  {
-    "id": 88,
-    "name": "Loška dolina",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lo%C5%A1ka_dolina",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Lo%C5%A1ka_Dolina.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/COA-Lo%C5%A1ka_Dolina.gif"
-  },
-  {
-    "id": 175,
-    "name": "Škofja Loka",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0kofja_Loka",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%A0kofja_Loka.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Coat_of_arms_of_%C5%A0kofja_Loka.png"
-  },
-  {
-    "id": 188,
-    "name": "Trnovska vas",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trnovska_vas",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Trnovska_vas.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Trnovska_vas.png"
-  },
-  {
-    "id": 13,
-    "name": "Brda",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Brda",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Brda.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Brda.png"
-  },
-  {
-    "id": 38,
-    "name": "Duplek",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Duplek",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Duplek.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Coat_of_arms_of_Duplek.gif"
-  },
-  {
-    "id": 87,
-    "name": "Logatec",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Logatec",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Logatec.grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logatec.grb.png"
-  },
-  {
-    "id": 202,
-    "name": "Vrhnika",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vrhnika",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:ObcinaVrhnika.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ObcinaVrhnika.png"
-  },
-  {
-    "id": 107,
-    "name": "Moravče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Morav%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Morav%C4%8De.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Morav%C4%8De.png"
-  },
-  {
-    "id": 168,
-    "name": "Šempeter - Vrtojba",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0empeter_-_Vrtojba",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0empeter-Vrtojba.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/%C5%A0empeter-Vrtojba.png"
-  },
-  {
-    "id": 199,
-    "name": "Vodice",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vodice",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vodice.grb.sl.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vodice.grb.sl.png"
-  },
-  {
-    "id": 63,
-    "name": "Kidričevo",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kidri%C4%8Devo",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kidri%C4%8Devo.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Coat_of_arms_of_Kidri%C4%8Devo.png"
-  },
-  {
-    "id": 114,
-    "name": "Nova Gorica",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Nova_Gorica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Nova_Gorica.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/COA-Nova_Gorica.svg"
-  },
-  {
-    "id": 164,
-    "name": "Sveti Jurij ob Ščavnici",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Jurij_ob_%C5%A0%C4%8Davnici",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Jurij.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sveti_Jurij.png"
-  },
-  {
-    "id": 125,
-    "name": "Podvelka",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Podvelka",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Podvelka.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Podvelka.png"
-  },
-  {
-    "id": 136,
-    "name": "Radenci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Radenci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Radenci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Radenci.png"
-  },
-  {
-    "id": 165,
-    "name": "Sveti Jurij v Slovenskih goricah",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Jurij_v_Slovenskih_goricah",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Jurij_v_Slovenskih_goricah_grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sveti_Jurij_v_Slovenskih_goricah_grb.png"
-  },
-  {
-    "id": 207,
-    "name": "Žalec",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDalec",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ob%C4%8Dina_%C5%BDalec_grb.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ob%C4%8Dina_%C5%BDalec_grb.gif"
-  },
-  {
-    "id": 96,
-    "name": "Markovci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Markovci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Markovci.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/COA-Markovci.gif"
-  },
-  {
-    "id": 12,
-    "name": "Braslovče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Braslov%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Logo_of_Braslovce.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Logo_of_Braslovce.svg"
-  },
-  {
-    "id": 60,
-    "name": "Juršinci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Jur%C5%A1inci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Jur%C5%A1inci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jur%C5%A1inci.png"
-  },
-  {
-    "id": 211,
-    "name": "Žirovnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDirovnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_%C5%BDirovnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coat_of_arm_of_%C5%BDirovnica.png"
-  },
-  {
-    "id": 1,
-    "name": "Ajdovščina",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ajdov%C5%A1%C4%8Dina",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_municipality_of_Ajdov%C5%A1%C4%8Dina.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Coat_of_arms_of_municipality_of_Ajdov%C5%A1%C4%8Dina.png"
-  },
-  {
-    "id": 11,
-    "name": "Bovec",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bovec",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Bovec.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Bovec.png"
-  },
-  {
-    "id": 19,
-    "name": "Cerknica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerknica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Cerknica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cerknica.png"
-  },
-  {
-    "id": 143,
-    "name": "Ribnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ribnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Ribnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Grb_ob%C4%8Dine_Ribnica.png"
-  },
-  {
-    "id": 191,
-    "name": "Turnišče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Turni%C5%A1%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Turni%C5%A1%C4%8De.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Turni%C5%A1%C4%8De.png"
-  },
-  {
     "id": 42,
     "name": "Gornja Radgona",
     "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gornja_Radgona",
@@ -343,242 +7,25 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gornja_radgona_grb.png"
   },
   {
-    "id": 57,
-    "name": "Izola",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Izola",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_Izola.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_arm_Izola.png"
+    "id": 102,
+    "name": "Miren - Kostanjevica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Miren_-_Kostanjevica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Miren-Kostanjevica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Miren-Kostanjevica.png"
   },
   {
-    "id": 120,
-    "name": "Pesnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Pesnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Pesnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pesnica.png"
+    "id": 130,
+    "name": "Preddvor",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Preddvor",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Preddvor.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Coat_of_arm_of_Preddvor.png"
   },
   {
-    "id": 133,
-    "name": "Puconci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Puconci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Puconci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_arms_of_Puconci.png"
-  },
-  {
-    "id": 185,
-    "name": "Tolmin",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Tolmin",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Tolmin.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/COA-Tolmin.gif"
-  },
-  {
-    "id": 111,
-    "name": "Muta",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Muta",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb.Muta.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Grb.Muta.png"
-  },
-  {
-    "id": 182,
-    "name": "Štore",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0tore",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0tore.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/%C5%A0tore.png"
-  },
-  {
-    "id": 205,
-    "name": "Zavrč",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Zavr%C4%8D",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Zavr%C4%8D.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Zavr%C4%8D.png"
-  },
-  {
-    "id": 95,
-    "name": "Maribor",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Maribor",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Maribor_(2020).svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Coat_of_arms_of_Maribor_%282020%29.svg"
-  },
-  {
-    "id": 119,
-    "name": "Osilnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Osilnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Osilnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Coat_of_arms_of_Osilnica.png"
-  },
-  {
-    "id": 190,
-    "name": "Tržič",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Tr%C5%BEi%C4%8D",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Tr%C5%BEi%C4%8D.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Tr%C5%BEi%C4%8D.png"
-  },
-  {
-    "id": 83,
-    "name": "Ljubljana",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Ljubljana",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Blason_ville_si_Ljubljana_(Slov%C3%A9nie).svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Blason_ville_si_Ljubljana_%28Slov%C3%A9nie%29.svg"
-  },
-  {
-    "id": 89,
-    "name": "Loški potok",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lo%C5%A1ki_Potok",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Lo%C5%A1ki_Potok.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/COA-Lo%C5%A1ki_Potok.gif"
-  },
-  {
-    "id": 129,
-    "name": "Prebold",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Prebold",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Prebold.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Coat_of_arms_of_Prebold.png"
-  },
-  {
-    "id": 157,
-    "name": "Solčava",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sol%C4%8Dava",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sol%C4%8Dava.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sol%C4%8Dava.png"
-  },
-  {
-    "id": 174,
-    "name": "Škocjan",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0kocjan",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0kocjan.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/%C5%A0kocjan.png"
-  },
-  {
-    "id": 198,
-    "name": "Vitanje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vitanje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vitanje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Vitanje.png"
-  },
-  {
-    "id": 56,
-    "name": "Ivančna Gorica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ivan%C4%8Dna_Gorica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ivan%C4%8Dna_Gorica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Ivan%C4%8Dna_Gorica.png"
-  },
-  {
-    "id": 170,
-    "name": "Šentilj",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entilj",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0entilj.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%C5%A0entilj.png"
-  },
-  {
-    "id": 27,
-    "name": "Divača",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Diva%C4%8Da",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Wappen_Divaca.jpg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Wappen_Divaca.jpg"
-  },
-  {
-    "id": 67,
-    "name": "Komen",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Komen",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Komen.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coat_of_Arms_of_Komen.gif"
-  },
-  {
-    "id": 110,
-    "name": "Murska Sobota",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Murska_Sobota",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:MS_seal.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/MS_seal.svg"
-  },
-  {
-    "id": 145,
-    "name": "Rogaška Slatina",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Roga%C5%A1ka_Slatina",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Roga%C5%A1ka_Slatina.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Roga%C5%A1ka_Slatina.png"
-  },
-  {
-    "id": 209,
-    "name": "Žetale",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDetale",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-%C5%BDetale.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/COA-%C5%BDetale.gif"
-  },
-  {
-    "id": 187,
-    "name": "Trebnje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trebnje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Ob%C4%8Dine_Trebnje.jpg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Grb_Ob%C4%8Dine_Trebnje.jpg"
-  },
-  {
-    "id": 37,
-    "name": "Dravograd",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dravograd",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dravograd.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dravograd.png"
-  },
-  {
-    "id": 40,
-    "name": "Gorišnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gori%C5%A1nica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Gori%C5%A1nica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gori%C5%A1nica.png"
-  },
-  {
-    "id": 50,
-    "name": "Horjul",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Horjul",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Horjul.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Horjul.png"
-  },
-  {
-    "id": 66,
-    "name": "Kočevje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ko%C4%8Devje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ko%C4%8Devje.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Coat_of_arms_of_Ko%C4%8Devje.svg"
-  },
-  {
-    "id": 155,
-    "name": "Slovenske Konjice",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Slovenske_Konjice",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Slovenske_Konjice_grb.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Slovenske_Konjice_grb.gif"
-  },
-  {
-    "id": 86,
-    "name": "Log - Dragomer",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Log_-_Dragomer",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Log-Dragomer.wappen.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Log-Dragomer.wappen.png"
-  },
-  {
-    "id": 137,
-    "name": "Radlje ob Dravi",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Radlje_ob_Dravi",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Radlje_ob_Dravi.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/COA-Radlje_ob_Dravi.gif"
-  },
-  {
-    "id": 8,
-    "name": "Bloke",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bloke",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Bloke.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bloke.png"
-  },
-  {
-    "id": 193,
-    "name": "Velika Polana",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Velika_Polana",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Velika_Polana.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Velika_Polana.png"
-  },
-  {
-    "id": 47,
-    "name": "Hajdina",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hajdina",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Hajdina.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hajdina.png"
+    "id": 64,
+    "name": "Kobarid",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kobarid",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kobarid.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kobarid.png"
   },
   {
     "id": 78,
@@ -588,18 +35,46 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kuzma.png"
   },
   {
-    "id": 183,
-    "name": "Tabor",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Tabor",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Tabor.Grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tabor.Grb.png"
+    "id": 160,
+    "name": "Straža",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Stra%C5%BEa",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Stra%C5%BEa.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stra%C5%BEa.png"
   },
   {
-    "id": 16,
-    "name": "Cankova",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cankova",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Cankova.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cankova.png"
+    "id": 9,
+    "name": "Bohinj",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bohinj",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Bohinj.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Coat_of_arms_of_Bohinj.png"
+  },
+  {
+    "id": 190,
+    "name": "Tržič",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Tr%C5%BEi%C4%8D",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Tr%C5%BEi%C4%8D.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Tr%C5%BEi%C4%8D.png"
+  },
+  {
+    "id": 194,
+    "name": "Velike Lašče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Velike_La%C5%A1%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Velike_La%C5%A1%C4%8De.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Velike_La%C5%A1%C4%8De.png"
+  },
+  {
+    "id": 153,
+    "name": "Slovenj Gradec",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Slovenj_Gradec",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Slovenj_Gradec_grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Slovenj_Gradec_grb.png"
+  },
+  {
+    "id": 5,
+    "name": "Benedikt",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Benedikt",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Benedikt.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Benedikt.png"
   },
   {
     "id": 144,
@@ -609,39 +84,18 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ribnica_na_Pohorju.png"
   },
   {
-    "id": 177,
-    "name": "Šmarje pri Jelšah",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0marje_pri_Jel%C5%A1ah",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0marje_pri_Jel%C5%A1ah.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%C5%A0marje_pri_Jel%C5%A1ah.png"
+    "id": 152,
+    "name": "Sežana",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Se%C5%BEana",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Sezana.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Coat_of_Arms_of_Sezana.png"
   },
   {
-    "id": 54,
-    "name": "Ig",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ig",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Ig_(2015).png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Grb_ob%C4%8Dine_Ig_%282015%29.png"
-  },
-  {
-    "id": 104,
-    "name": "Mirna Peč",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mirna_Pe%C4%8D",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Mirna_Pe%C4%8D.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Coat_of_arms_of_Mirna_Pe%C4%8D.png"
-  },
-  {
-    "id": 141,
-    "name": "Rečica ob Savinji",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Re%C4%8Dica_ob_Savinji",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Re%C4%8Dica_ob_Savinji.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Re%C4%8Dica_ob_Savinji.png"
-  },
-  {
-    "id": 180,
-    "name": "Šmartno ob Paki",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0martno_ob_Paki",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0martno_ob_Paki.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/%C5%A0martno_ob_Paki.png"
+    "id": 188,
+    "name": "Trnovska vas",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trnovska_vas",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Trnovska_vas.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Trnovska_vas.png"
   },
   {
     "id": 25,
@@ -651,11 +105,116 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Coat_of_arms_of_%C4%8Crnomelj_%28since_2021%29.svg"
   },
   {
-    "id": 150,
-    "name": "Semič",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Semi%C4%8D",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Semi%C4%8D.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Semi%C4%8D.png"
+    "id": 128,
+    "name": "Postojna",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Postojna",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Postojna.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/COA-Postojna.gif"
+  },
+  {
+    "id": 197,
+    "name": "Vipava",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vipava",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vipava.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vipava.png"
+  },
+  {
+    "id": 39,
+    "name": "Gorenja vas - Poljane",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gorenja_vas_-_Poljane",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arm_of_Gorenja_vas-Poljane.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Coat_of_Arm_of_Gorenja_vas-Poljane.png"
+  },
+  {
+    "id": 88,
+    "name": "Loška dolina",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lo%C5%A1ka_dolina",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Lo%C5%A1ka_Dolina.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/COA-Lo%C5%A1ka_Dolina.gif"
+  },
+  {
+    "id": 142,
+    "name": "Renče - Vogrsko",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ren%C4%8De_-_Vogrsko",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ren%C4%8De-Vogrsko.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ren%C4%8De-Vogrsko.png"
+  },
+  {
+    "id": 172,
+    "name": "Šentjur",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entjur",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0entjur_pri_Celju.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/%C5%A0entjur_pri_Celju.png"
+  },
+  {
+    "id": 2,
+    "name": "Ankaran",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ankaran",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ankaran_Grb_-_Coat_of_Arms.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ankaran_Grb_-_Coat_of_Arms.svg"
+  },
+  {
+    "id": 29,
+    "name": "Dobrepolje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrepolje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dobrepolje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Dobrepolje.png"
+  },
+  {
+    "id": 75,
+    "name": "Križevci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kri%C5%BEevci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ob%C4%8Dina_Kri%C5%BEevci_grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ob%C4%8Dina_Kri%C5%BEevci_grb.png"
+  },
+  {
+    "id": 187,
+    "name": "Trebnje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trebnje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Ob%C4%8Dine_Trebnje.jpg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Grb_Ob%C4%8Dine_Trebnje.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Brda",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Brda",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Brda.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Brda.png"
+  },
+  {
+    "id": 48,
+    "name": "Hoče - Slivnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ho%C4%8De_-_Slivnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ho%C4%8De-Slivnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_arms_of_Ho%C4%8De-Slivnica.png"
+  },
+  {
+    "id": 50,
+    "name": "Horjul",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Horjul",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Horjul.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Horjul.png"
+  },
+  {
+    "id": 212,
+    "name": "Žužemberk",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDu%C5%BEemberk",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%BDu%C5%BEemberk.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_%C5%BDu%C5%BEemberk.png"
+  },
+  {
+    "id": 18,
+    "name": "Cerklje na Gorenjskem",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerklje_na_Gorenjskem",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arm_of_Cerklje_na_Gorenjskem.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arm_of_Cerklje_na_Gorenjskem.png"
+  },
+  {
+    "id": 101,
+    "name": "Miklavž na Dravskem polju",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Miklav%C5%BE_na_Dravskem_polju",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Miklav%C5%BE_na_Dravskem_polju.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Miklav%C5%BE_na_Dravskem_polju.png"
   },
   {
     "id": 169,
@@ -665,18 +224,116 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Grb_Ob%C4%8Dine_%C5%A0en%C4%8Dur.png"
   },
   {
-    "id": 80,
-    "name": "Lenart",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lenart",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Lenart.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Coat_of_arms_of_Lenart.png"
+    "id": 104,
+    "name": "Mirna Peč",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mirna_Pe%C4%8D",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Mirna_Pe%C4%8D.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Coat_of_arms_of_Mirna_Pe%C4%8D.png"
   },
   {
-    "id": 122,
-    "name": "Pivka",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Pivka",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Pivka.Grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pivka.Grb.png"
+    "id": 107,
+    "name": "Moravče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Morav%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Morav%C4%8De.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Morav%C4%8De.png"
+  },
+  {
+    "id": 146,
+    "name": "Rogašovci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Roga%C5%A1ovci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Roga%C5%A1ovci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Roga%C5%A1ovci.png"
+  },
+  {
+    "id": 134,
+    "name": "Rače - Fram",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ra%C4%8De_-_Fram",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ra%C4%8De-Fram.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_Ra%C4%8De-Fram.png"
+  },
+  {
+    "id": 166,
+    "name": "Sveti Tomaž",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Toma%C5%BE",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Toma%C5%BE.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sveti_Toma%C5%BE.png"
+  },
+  {
+    "id": 199,
+    "name": "Vodice",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vodice",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vodice.grb.sl.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vodice.grb.sl.png"
+  },
+  {
+    "id": 201,
+    "name": "Vransko",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vransko",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vransko.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vransko.png"
+  },
+  {
+    "id": 40,
+    "name": "Gorišnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gori%C5%A1nica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Gori%C5%A1nica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gori%C5%A1nica.png"
+  },
+  {
+    "id": 97,
+    "name": "Medvode",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Medvode",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Medvode.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Medvode.png"
+  },
+  {
+    "id": 116,
+    "name": "Odranci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Odranci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Odranci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Odranci.png"
+  },
+  {
+    "id": 149,
+    "name": "Selnica ob Dravi",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Selnica_ob_Dravi",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Selnica_ob_Dravi.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Selnica_ob_Dravi.png"
+  },
+  {
+    "id": 46,
+    "name": "Grosuplje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Grosuplje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Grosuplje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Coat_of_arms_of_Grosuplje.png"
+  },
+  {
+    "id": 129,
+    "name": "Prebold",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Prebold",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Prebold.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Coat_of_arms_of_Prebold.png"
+  },
+  {
+    "id": 31,
+    "name": "Dobrova - Polhov Gradec",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrova_-_Polhov_Gradec",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dobrova-Polhov_Gradec.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Dobrova-Polhov_Gradec.png"
+  },
+  {
+    "id": 91,
+    "name": "Luče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lu%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Luce_grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Luce_grb.png"
+  },
+  {
+    "id": 6,
+    "name": "Bistrica ob Sotli",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bistrica_ob_Sotli",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_-_Ob%C4%8Dina_Bistrica_ob_Sotli_brez_napisa.jpg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Grb_-_Ob%C4%8Dina_Bistrica_ob_Sotli_brez_napisa.jpg"
   },
   {
     "id": 72,
@@ -693,139 +350,6 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/COA-Maj%C5%A1perk.gif"
   },
   {
-    "id": 15,
-    "name": "Brežice",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bre%C5%BEice",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:BreziceGRB.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/BreziceGRB.png"
-  },
-  {
-    "id": 101,
-    "name": "Miklavž na Dravskem polju",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Miklav%C5%BE_na_Dravskem_polju",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Miklav%C5%BE_na_Dravskem_polju.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Miklav%C5%BE_na_Dravskem_polju.png"
-  },
-  {
-    "id": 208,
-    "name": "Železniki",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDelezniki",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%BDelezniki.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Coat_of_arms_of_%C5%BDelezniki.png"
-  },
-  {
-    "id": 3,
-    "name": "Apače",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Apa%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Apa%C4%8De.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Apa%C4%8De.svg"
-  },
-  {
-    "id": 75,
-    "name": "Križevci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kri%C5%BEevci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ob%C4%8Dina_Kri%C5%BEevci_grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ob%C4%8Dina_Kri%C5%BEevci_grb.png"
-  },
-  {
-    "id": 94,
-    "name": "Makole",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Makole",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Ob%C4%8Dine_Makole.jpg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grb_Ob%C4%8Dine_Makole.jpg"
-  },
-  {
-    "id": 98,
-    "name": "Mengeš",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Menge%C5%A1",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Menge%C5%A1.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_arms_of_Menge%C5%A1.png"
-  },
-  {
-    "id": 117,
-    "name": "Oplotnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Oplotnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Oplotnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Oplotnica.png"
-  },
-  {
-    "id": 160,
-    "name": "Straža",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Stra%C5%BEa",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Stra%C5%BEa.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stra%C5%BEa.png"
-  },
-  {
-    "id": 73,
-    "name": "Kranj",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Kranj",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kranj_(with_white_outline).svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Kranj_%28with_white_outline%29.svg"
-  },
-  {
-    "id": 153,
-    "name": "Slovenj Gradec",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Slovenj_Gradec",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Slovenj_Gradec_grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Slovenj_Gradec_grb.png"
-  },
-  {
-    "id": 49,
-    "name": "Hodoš",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hodo%C5%A1",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Hodo%C5%A1_grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hodo%C5%A1_grb.png"
-  },
-  {
-    "id": 59,
-    "name": "Jezersko",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Jezersko",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Jezersko.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Jezersko.png"
-  },
-  {
-    "id": 43,
-    "name": "Gornji Grad",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gornji_Grad",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Gornji_Grad.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gornji_Grad.svg"
-  },
-  {
-    "id": 138,
-    "name": "Radovljica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Radovljica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Radovljica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Radovljica.png"
-  },
-  {
-    "id": 212,
-    "name": "Žužemberk",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDu%C5%BEemberk",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%BDu%C5%BEemberk.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_%C5%BDu%C5%BEemberk.png"
-  },
-  {
-    "id": 10,
-    "name": "Borovnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Borovnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Borovnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_Arms_of_Borovnica.png"
-  },
-  {
-    "id": 44,
-    "name": "Gornji Petrovci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gornji_Petrovci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Gornji_Petrovci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Gornji_Petrovci.png"
-  },
-  {
-    "id": 148,
-    "name": "Ruše",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ru%C5%A1e",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ru%C5%A1e.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ru%C5%A1e.png"
-  },
-  {
     "id": 108,
     "name": "Moravske Toplice",
     "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Moravske_Toplice",
@@ -833,130 +357,18 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Moravske_Toplice_grb.gif"
   },
   {
-    "id": 112,
-    "name": "Naklo",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Naklo",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Naklo.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_arm_of_Naklo.gif"
+    "id": 15,
+    "name": "Brežice",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bre%C5%BEice",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:BreziceGRB.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/BreziceGRB.png"
   },
   {
-    "id": 167,
-    "name": "Šalovci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0alovci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0alovci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%C5%A0alovci.png"
-  },
-  {
-    "id": 46,
-    "name": "Grosuplje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Grosuplje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Grosuplje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Coat_of_arms_of_Grosuplje.png"
-  },
-  {
-    "id": 128,
-    "name": "Postojna",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Postojna",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Postojna.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/COA-Postojna.gif"
-  },
-  {
-    "id": 181,
-    "name": "Šoštanj",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0o%C5%A1tanj",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0o%C5%A1tanj.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%C5%A0o%C5%A1tanj.png"
-  },
-  {
-    "id": 55,
-    "name": "Ilirska Bistrica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ilirska_Bistrica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Ilirska_Bistrica.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/COA-Ilirska_Bistrica.gif"
-  },
-  {
-    "id": 77,
-    "name": "Kungota",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kungota",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kungota.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_arms_of_Kungota.png"
-  },
-  {
-    "id": 68,
-    "name": "Komenda",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Komenda",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Komenda.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Komenda.png"
-  },
-  {
-    "id": 139,
-    "name": "Ravne na Koroškem",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ravne_na_Koro%C5%A1kem",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ravne_na_Koro%C5%A1kem.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ravne_na_Koro%C5%A1kem.png"
-  },
-  {
-    "id": 156,
-    "name": "Sodražica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sodra%C5%BEica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sodra%C5%BEica-grb-novi.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sodra%C5%BEica-grb-novi.png"
-  },
-  {
-    "id": 171,
-    "name": "Šentjernej",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entjernej",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0entjernej.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/%C5%A0entjernej.png"
-  },
-  {
-    "id": 115,
-    "name": "Novo mesto",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Novo_mesto",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Novo_Mesto.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Coat_of_arms_of_Novo_Mesto.svg"
-  },
-  {
-    "id": 142,
-    "name": "Renče - Vogrsko",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ren%C4%8De_-_Vogrsko",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ren%C4%8De-Vogrsko.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ren%C4%8De-Vogrsko.png"
-  },
-  {
-    "id": 146,
-    "name": "Rogašovci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Roga%C5%A1ovci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Roga%C5%A1ovci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Roga%C5%A1ovci.png"
-  },
-  {
-    "id": 5,
-    "name": "Benedikt",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Benedikt",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Benedikt.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Benedikt.png"
-  },
-  {
-    "id": 61,
-    "name": "Kamnik",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kamnik",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Kamnika.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grb_Kamnika.svg"
-  },
-  {
-    "id": 163,
-    "name": "Sveti Andraž v Slovenskih goricah",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Andra%C5%BE_v_Slovenskih_goricah",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Andra%C5%BE_v_Slovenskih_goricah.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sveti_Andra%C5%BE_v_Slovenskih_goricah.png"
-  },
-  {
-    "id": 22,
-    "name": "Cirkulane",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cirkulane",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Cirkulane.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Cirkulane.png"
+    "id": 37,
+    "name": "Dravograd",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dravograd",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dravograd.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dravograd.png"
   },
   {
     "id": 45,
@@ -966,67 +378,25 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Coat_of_arms_of_Ob%C4%8Dina_Grad.png"
   },
   {
-    "id": 172,
-    "name": "Šentjur",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entjur",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0entjur_pri_Celju.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/%C5%A0entjur_pri_Celju.png"
+    "id": 54,
+    "name": "Ig",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ig",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Ig_(2015).png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Grb_ob%C4%8Dine_Ig_%282015%29.png"
   },
   {
-    "id": 102,
-    "name": "Miren - Kostanjevica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Miren_-_Kostanjevica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Miren-Kostanjevica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Miren-Kostanjevica.png"
+    "id": 84,
+    "name": "Ljubno",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ljubno",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ljubno.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ljubno.png"
   },
   {
-    "id": 6,
-    "name": "Bistrica ob Sotli",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bistrica_ob_Sotli",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_-_Ob%C4%8Dina_Bistrica_ob_Sotli_brez_napisa.jpg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Grb_-_Ob%C4%8Dina_Bistrica_ob_Sotli_brez_napisa.jpg"
-  },
-  {
-    "id": 29,
-    "name": "Dobrepolje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrepolje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dobrepolje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Dobrepolje.png"
-  },
-  {
-    "id": 32,
-    "name": "Dobrovnik",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrovnik",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Dobrovnik.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Coat_of_arms_of_Dobrovnik.png"
-  },
-  {
-    "id": 109,
-    "name": "Mozirje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mozirje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Mozirje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_arms_of_Mozirje.png"
-  },
-  {
-    "id": 186,
-    "name": "Trbovlje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trbovlje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Trbovlje.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Trbovlje.svg"
-  },
-  {
-    "id": 195,
-    "name": "Veržej",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ver%C5%BEej",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ver%C5%BEej.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Coat_of_arms_of_Ver%C5%BEej.png"
-  },
-  {
-    "id": 74,
-    "name": "Kranjska Gora",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kranjska_Gora",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kranjska_Gora.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coat_of_arms_of_Kranjska_Gora.png"
+    "id": 174,
+    "name": "Škocjan",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0kocjan",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0kocjan.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/%C5%A0kocjan.png"
   },
   {
     "id": 28,
@@ -1036,214 +406,74 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/DobjeGrb.png"
   },
   {
-    "id": 64,
-    "name": "Kobarid",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kobarid",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kobarid.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kobarid.png"
+    "id": 43,
+    "name": "Gornji Grad",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gornji_Grad",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Gornji_Grad.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gornji_Grad.svg"
   },
   {
-    "id": 158,
-    "name": "Središče ob Dravi",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sredi%C5%A1%C4%8De_ob_Dravi",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sredi%C5%A1%C4%8De_ob_Dravi.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sredi%C5%A1%C4%8De_ob_Dravi.png"
+    "id": 55,
+    "name": "Ilirska Bistrica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ilirska_Bistrica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Ilirska_Bistrica.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/COA-Ilirska_Bistrica.gif"
   },
   {
-    "id": 97,
-    "name": "Medvode",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Medvode",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Medvode.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Medvode.png"
+    "id": 124,
+    "name": "Podlehnik",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Podlehnik",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Podlehnik.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Podlehnik.png"
   },
   {
-    "id": 113,
-    "name": "Nazarje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Nazarje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Nazarje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Nazarje.png"
+    "id": 11,
+    "name": "Bovec",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bovec",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Bovec.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Bovec.png"
   },
   {
-    "id": 204,
-    "name": "Zagorje ob Savi",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Zagorje_ob_Savi",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Zagorje_ob_Savi.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Coat_of_arms_of_Zagorje_ob_Savi.png"
+    "id": 150,
+    "name": "Semič",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Semi%C4%8D",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Semi%C4%8D.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Semi%C4%8D.png"
   },
   {
-    "id": 70,
-    "name": "Kostanjevica na Krki",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kostanjevica_na_Krki",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Kostanjevica_na_Krki.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Coat_of_arm_of_Kostanjevica_na_Krki.png"
+    "id": 170,
+    "name": "Šentilj",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entilj",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0entilj.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%C5%A0entilj.png"
   },
   {
-    "id": 134,
-    "name": "Rače - Fram",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ra%C4%8De_-_Fram",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ra%C4%8De-Fram.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_Ra%C4%8De-Fram.png"
+    "id": 19,
+    "name": "Cerknica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerknica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Cerknica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cerknica.png"
   },
   {
-    "id": 71,
-    "name": "Kostel",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kostel",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kostel.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kostel.png"
+    "id": 76,
+    "name": "Krško",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Kr%C5%A1ko",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kr%C5%A1ko.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kr%C5%A1ko.png"
   },
   {
-    "id": 82,
-    "name": "Litija",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Litija",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Litija.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_Litija.png"
+    "id": 114,
+    "name": "Nova Gorica",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Nova_Gorica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Nova_Gorica.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/COA-Nova_Gorica.svg"
   },
   {
-    "id": 106,
-    "name": "Mokronog - Trebelno",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mokronog_-_Trebelno",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Ob%C4%8Dine_Mokronog-Trebelno.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Grb_Ob%C4%8Dine_Mokronog-Trebelno.png"
-  },
-  {
-    "id": 162,
-    "name": "Sveta Trojica v Slovenskih goricah",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveta_Trojica_v_Slovenskih_goricah",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveta_Trojica_v_Slovenskih_goricah.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sveta_Trojica_v_Slovenskih_goricah.png"
-  },
-  {
-    "id": 179,
-    "name": "Šmartno pri Litiji",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0martno_pri_Litiji",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0martno_pri_Litiji.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%C5%A0martno_pri_Litiji.png"
-  },
-  {
-    "id": 20,
-    "name": "Cerkno",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerkno",
-    "imgRedirectUrl": "",
-    "imgUrl": ""
-  },
-  {
-    "id": 48,
-    "name": "Hoče - Slivnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ho%C4%8De_-_Slivnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ho%C4%8De-Slivnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_arms_of_Ho%C4%8De-Slivnica.png"
-  },
-  {
-    "id": 140,
-    "name": "Razkrižje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Razkri%C5%BEje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Razkri%C5%BEje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Razkri%C5%BEje.png"
-  },
-  {
-    "id": 151,
-    "name": "Sevnica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sevnica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_logotip_obcina_sevnica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Grb_logotip_obcina_sevnica.png"
-  },
-  {
-    "id": 194,
-    "name": "Velike Lašče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Velike_La%C5%A1%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Velike_La%C5%A1%C4%8De.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Velike_La%C5%A1%C4%8De.png"
-  },
-  {
-    "id": 17,
-    "name": "Celje",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Celje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Celje.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_arms_of_Celje.svg"
-  },
-  {
-    "id": 2,
-    "name": "Ankaran",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ankaran",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ankaran_Grb_-_Coat_of_Arms.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ankaran_Grb_-_Coat_of_Arms.svg"
-  },
-  {
-    "id": 41,
-    "name": "Gorje",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gorje",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arm_of_Gorje.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Coat_of_Arm_of_Gorje.png"
-  },
-  {
-    "id": 92,
-    "name": "Lukovica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lukovica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Lukovica.grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lukovica.grb.png"
-  },
-  {
-    "id": 91,
-    "name": "Luče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lu%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Luce_grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Luce_grb.png"
-  },
-  {
-    "id": 206,
-    "name": "Zreče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Zre%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Zre%C4%8De.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Zre%C4%8De.png"
-  },
-  {
-    "id": 9,
-    "name": "Bohinj",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bohinj",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Bohinj.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Coat_of_arms_of_Bohinj.png"
-  },
-  {
-    "id": 36,
-    "name": "Dornava",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dornava",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dornava.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dornava.png"
-  },
-  {
-    "id": 196,
-    "name": "Videm",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Videm",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Videm.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Videm.png"
-  },
-  {
-    "id": 200,
-    "name": "Vojnik",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vojnik",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb.Vojnik.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Grb.Vojnik.png"
-  },
-  {
-    "id": 100,
-    "name": "Mežica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Me%C5%BEica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Me%C5%BEica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Me%C5%BEica.png"
-  },
-  {
-    "id": 39,
-    "name": "Gorenja vas - Poljane",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gorenja_vas_-_Poljane",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arm_of_Gorenja_vas-Poljane.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Coat_of_Arm_of_Gorenja_vas-Poljane.png"
-  },
-  {
-    "id": 90,
-    "name": "Lovrenc na Pohorju",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lovrenc_na_Pohorju",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Lovrenc_na_Pohorju.gif",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/COA-Lovrenc_na_Pohorju.gif"
+    "id": 53,
+    "name": "Idrija",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Idrija",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Idrija.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grb_ob%C4%8Dine_Idrija.png"
   },
   {
     "id": 184,
@@ -1253,18 +483,32 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ti%C5%A1ina.png"
   },
   {
-    "id": 135,
-    "name": "Radeče",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Rade%C4%8De",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Wappen_Rade%C4%8De.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Wappen_Rade%C4%8De.png"
+    "id": 207,
+    "name": "Žalec",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDalec",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ob%C4%8Dina_%C5%BDalec_grb.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ob%C4%8Dina_%C5%BDalec_grb.gif"
   },
   {
-    "id": 99,
-    "name": "Metlika",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Metlika",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Metlika.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Metlika.png"
+    "id": 30,
+    "name": "Dobrna",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrna",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Dobrna.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Coat_of_arms_of_Dobrna.png"
+  },
+  {
+    "id": 109,
+    "name": "Mozirje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mozirje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Mozirje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_arms_of_Mozirje.png"
+  },
+  {
+    "id": 115,
+    "name": "Novo mesto",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Novo_mesto",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Novo_Mesto.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Coat_of_arms_of_Novo_Mesto.svg"
   },
   {
     "id": 159,
@@ -1281,137 +525,25 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/%C5%A0kofljica.png"
   },
   {
-    "id": 76,
-    "name": "Krško",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Kr%C5%A1ko",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kr%C5%A1ko.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kr%C5%A1ko.png"
+    "id": 205,
+    "name": "Zavrč",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Zavr%C4%8D",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Zavr%C4%8D.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Zavr%C4%8D.png"
   },
   {
-    "id": 173,
-    "name": "Šentrupert",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entrupert",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%A0entrupert.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_%C5%A0entrupert.svg"
+    "id": 206,
+    "name": "Zreče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Zre%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Zre%C4%8De.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Zre%C4%8De.png"
   },
   {
-    "id": 4,
-    "name": "Beltinci",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Beltinci",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Beltinci.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beltinci.png"
-  },
-  {
-    "id": 14,
-    "name": "Brezovica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Brezovica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Brezovica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Coat_of_arms_of_Brezovica.png"
-  },
-  {
-    "id": 79,
-    "name": "Laško",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_La%C5%A1ko",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_La%C5%A1ko.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_La%C5%A1ko.svg"
-  },
-  {
-    "id": 124,
-    "name": "Podlehnik",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Podlehnik",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Podlehnik.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Podlehnik.png"
-  },
-  {
-    "id": 7,
-    "name": "Bled",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bled",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Bled.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Coat_of_arms_of_Bled.png"
-  },
-  {
-    "id": 166,
-    "name": "Sveti Tomaž",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Toma%C5%BE",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Toma%C5%BE.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sveti_Toma%C5%BE.png"
-  },
-  {
-    "id": 147,
-    "name": "Rogatec",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Rogatec",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Rogatec.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coat_of_arms_of_Rogatec.png"
-  },
-  {
-    "id": 161,
-    "name": "Sveta Ana",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveta_Ana",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveta_Ana.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sveta_Ana.png"
-  },
-  {
-    "id": 53,
-    "name": "Idrija",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Idrija",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Idrija.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grb_ob%C4%8Dine_Idrija.png"
-  },
-  {
-    "id": 105,
-    "name": "Mislinja",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mislinja",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Mislinja.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mislinja.png"
-  },
-  {
-    "id": 178,
-    "name": "Šmarješke Toplice",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0marje%C5%A1ke_Toplice",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0marje%C5%A1ke_Toplice.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C5%A0marje%C5%A1ke_Toplice.png"
-  },
-  {
-    "id": 201,
-    "name": "Vransko",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vransko",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vransko.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vransko.png"
-  },
-  {
-    "id": 31,
-    "name": "Dobrova - Polhov Gradec",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrova_-_Polhov_Gradec",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dobrova-Polhov_Gradec.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Dobrova-Polhov_Gradec.png"
-  },
-  {
-    "id": 85,
-    "name": "Ljutomer",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ljutomer",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ljutomer_grb.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ljutomer_grb.png"
-  },
-  {
-    "id": 152,
-    "name": "Sežana",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Se%C5%BEana",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Sezana.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Coat_of_Arms_of_Sezana.png"
-  },
-  {
-    "id": 127,
-    "name": "Polzela",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Polzela",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Polzela.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Polzela.png"
-  },
-  {
-    "id": 62,
-    "name": "Kanal",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kanal_ob_So%C4%8Di",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kanal_ob_So%C4%8Di.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kanal_ob_So%C4%8Di.png"
+    "id": 83,
+    "name": "Ljubljana",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Ljubljana",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Blason_ville_si_Ljubljana_(Slov%C3%A9nie).svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Blason_ville_si_Ljubljana_%28Slov%C3%A9nie%29.svg"
   },
   {
     "id": 126,
@@ -1421,53 +553,123 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Polj%C4%8Dane.png"
   },
   {
-    "id": 26,
-    "name": "Destrnik",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Destrnik",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Destrnik.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Destrnik.png"
+    "id": 136,
+    "name": "Radenci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Radenci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Radenci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Radenci.png"
   },
   {
-    "id": 51,
-    "name": "Hrastnik",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hrastnik",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Hrastnik.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arm_of_Hrastnik.png"
+    "id": 158,
+    "name": "Središče ob Dravi",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sredi%C5%A1%C4%8De_ob_Dravi",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sredi%C5%A1%C4%8De_ob_Dravi.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sredi%C5%A1%C4%8De_ob_Dravi.png"
   },
   {
-    "id": 130,
-    "name": "Preddvor",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Preddvor",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Preddvor.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Coat_of_arm_of_Preddvor.png"
+    "id": 68,
+    "name": "Komenda",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Komenda",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Komenda.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Komenda.png"
   },
   {
-    "id": 154,
-    "name": "Slovenska Bistrica",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Slovenska_Bistrica",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Slovenska_Bistrica.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Slovenska_Bistrica.png"
+    "id": 98,
+    "name": "Mengeš",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Menge%C5%A1",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Menge%C5%A1.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_arms_of_Menge%C5%A1.png"
   },
   {
-    "id": 30,
-    "name": "Dobrna",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrna",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Dobrna.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Coat_of_arms_of_Dobrna.png"
+    "id": 138,
+    "name": "Radovljica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Radovljica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Radovljica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Radovljica.png"
   },
   {
-    "id": 132,
-    "name": "Ptuj",
-    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Ptuj",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:CoA_of_Ptuj.svg",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/CoA_of_Ptuj.svg"
+    "id": 179,
+    "name": "Šmartno pri Litiji",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0martno_pri_Litiji",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0martno_pri_Litiji.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%C5%A0martno_pri_Litiji.png"
   },
   {
-    "id": 24,
-    "name": "Črna na Koroškem",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C4%8Crna_na_Koro%C5%A1kem",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C4%8Crna_na_Koro%C5%A1kem.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/%C4%8Crna_na_Koro%C5%A1kem.png"
+    "id": 23,
+    "name": "Črenšovci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C4%8Cren%C5%A1ovci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C4%8Cren%C5%A1ovci_CoA.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/%C4%8Cren%C5%A1ovci_CoA.png"
+  },
+  {
+    "id": 52,
+    "name": "Hrpelje - Kozina",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hrpelje_-_Kozina",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Hrpelje-Kozina.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_Arms_of_Hrpelje-Kozina.png"
+  },
+  {
+    "id": 100,
+    "name": "Mežica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Me%C5%BEica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Me%C5%BEica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Me%C5%BEica.png"
+  },
+  {
+    "id": 192,
+    "name": "Velenje",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Velenje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Velenja.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Grb_Velenja.svg"
+  },
+  {
+    "id": 147,
+    "name": "Rogatec",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Rogatec",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Rogatec.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coat_of_arms_of_Rogatec.png"
+  },
+  {
+    "id": 164,
+    "name": "Sveti Jurij ob Ščavnici",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Jurij_ob_%C5%A0%C4%8Davnici",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Jurij.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sveti_Jurij.png"
+  },
+  {
+    "id": 175,
+    "name": "Škofja Loka",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0kofja_Loka",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%A0kofja_Loka.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Coat_of_arms_of_%C5%A0kofja_Loka.png"
+  },
+  {
+    "id": 20,
+    "name": "Cerkno",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerkno",
+    "imgRedirectUrl": "",
+    "imgUrl": ""
+  },
+  {
+    "id": 90,
+    "name": "Lovrenc na Pohorju",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lovrenc_na_Pohorju",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Lovrenc_na_Pohorju.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/COA-Lovrenc_na_Pohorju.gif"
+  },
+  {
+    "id": 165,
+    "name": "Sveti Jurij v Slovenskih goricah",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Jurij_v_Slovenskih_goricah",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Jurij_v_Slovenskih_goricah_grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sveti_Jurij_v_Slovenskih_goricah_grb.png"
+  },
+  {
+    "id": 195,
+    "name": "Veržej",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ver%C5%BEej",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ver%C5%BEej.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Coat_of_arms_of_Ver%C5%BEej.png"
   },
   {
     "id": 33,
@@ -1477,10 +679,808 @@
     "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dol_pri_Ljubljani.png"
   },
   {
-    "id": 52,
-    "name": "Hrpelje - Kozina",
-    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hrpelje_-_Kozina",
-    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Hrpelje-Kozina.png",
-    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_Arms_of_Hrpelje-Kozina.png"
+    "id": 63,
+    "name": "Kidričevo",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kidri%C4%8Devo",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kidri%C4%8Devo.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Coat_of_arms_of_Kidri%C4%8Devo.png"
+  },
+  {
+    "id": 87,
+    "name": "Logatec",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Logatec",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Logatec.grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logatec.grb.png"
+  },
+  {
+    "id": 32,
+    "name": "Dobrovnik",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dobrovnik",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Dobrovnik.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Coat_of_arms_of_Dobrovnik.png"
+  },
+  {
+    "id": 119,
+    "name": "Osilnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Osilnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Osilnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Coat_of_arms_of_Osilnica.png"
+  },
+  {
+    "id": 103,
+    "name": "Mirna",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mirna",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Mirnagrb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mirnagrb.png"
+  },
+  {
+    "id": 141,
+    "name": "Rečica ob Savinji",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Re%C4%8Dica_ob_Savinji",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Re%C4%8Dica_ob_Savinji.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Re%C4%8Dica_ob_Savinji.png"
+  },
+  {
+    "id": 193,
+    "name": "Velika Polana",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Velika_Polana",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Velika_Polana.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Velika_Polana.png"
+  },
+  {
+    "id": 203,
+    "name": "Vuzenica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vuzenica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vuzenica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Vuzenica.png"
+  },
+  {
+    "id": 24,
+    "name": "Črna na Koroškem",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C4%8Crna_na_Koro%C5%A1kem",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C4%8Crna_na_Koro%C5%A1kem.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/%C4%8Crna_na_Koro%C5%A1kem.png"
+  },
+  {
+    "id": 80,
+    "name": "Lenart",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lenart",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Lenart.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Coat_of_arms_of_Lenart.png"
+  },
+  {
+    "id": 133,
+    "name": "Puconci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Puconci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Puconci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_arms_of_Puconci.png"
+  },
+  {
+    "id": 168,
+    "name": "Šempeter - Vrtojba",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0empeter_-_Vrtojba",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0empeter-Vrtojba.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/%C5%A0empeter-Vrtojba.png"
+  },
+  {
+    "id": 7,
+    "name": "Bled",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bled",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Bled.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Coat_of_arms_of_Bled.png"
+  },
+  {
+    "id": 85,
+    "name": "Ljutomer",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ljutomer",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ljutomer_grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ljutomer_grb.png"
+  },
+  {
+    "id": 113,
+    "name": "Nazarje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Nazarje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Nazarje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Nazarje.png"
+  },
+  {
+    "id": 162,
+    "name": "Sveta Trojica v Slovenskih goricah",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveta_Trojica_v_Slovenskih_goricah",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveta_Trojica_v_Slovenskih_goricah.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sveta_Trojica_v_Slovenskih_goricah.png"
+  },
+  {
+    "id": 139,
+    "name": "Ravne na Koroškem",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ravne_na_Koro%C5%A1kem",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ravne_na_Koro%C5%A1kem.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ravne_na_Koro%C5%A1kem.png"
+  },
+  {
+    "id": 182,
+    "name": "Štore",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0tore",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0tore.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/%C5%A0tore.png"
+  },
+  {
+    "id": 183,
+    "name": "Tabor",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Tabor",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Tabor.Grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tabor.Grb.png"
+  },
+  {
+    "id": 208,
+    "name": "Železniki",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDelezniki",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%BDelezniki.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Coat_of_arms_of_%C5%BDelezniki.png"
+  },
+  {
+    "id": 41,
+    "name": "Gorje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gorje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arm_of_Gorje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Coat_of_Arm_of_Gorje.png"
+  },
+  {
+    "id": 57,
+    "name": "Izola",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Izola",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_Izola.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_arm_Izola.png"
+  },
+  {
+    "id": 161,
+    "name": "Sveta Ana",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveta_Ana",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveta_Ana.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sveta_Ana.png"
+  },
+  {
+    "id": 8,
+    "name": "Bloke",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Bloke",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Bloke.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bloke.png"
+  },
+  {
+    "id": 120,
+    "name": "Pesnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Pesnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Pesnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pesnica.png"
+  },
+  {
+    "id": 180,
+    "name": "Šmartno ob Paki",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0martno_ob_Paki",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0martno_ob_Paki.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/%C5%A0martno_ob_Paki.png"
+  },
+  {
+    "id": 191,
+    "name": "Turnišče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Turni%C5%A1%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Turni%C5%A1%C4%8De.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Turni%C5%A1%C4%8De.png"
+  },
+  {
+    "id": 95,
+    "name": "Maribor",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Maribor",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Maribor_(2020).svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Coat_of_arms_of_Maribor_%282020%29.svg"
+  },
+  {
+    "id": 163,
+    "name": "Sveti Andraž v Slovenskih goricah",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sveti_Andra%C5%BE_v_Slovenskih_goricah",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sveti_Andra%C5%BE_v_Slovenskih_goricah.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sveti_Andra%C5%BE_v_Slovenskih_goricah.png"
+  },
+  {
+    "id": 185,
+    "name": "Tolmin",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Tolmin",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Tolmin.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/COA-Tolmin.gif"
+  },
+  {
+    "id": 61,
+    "name": "Kamnik",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kamnik",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Kamnika.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grb_Kamnika.svg"
+  },
+  {
+    "id": 122,
+    "name": "Pivka",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Pivka",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Pivka.Grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pivka.Grb.png"
+  },
+  {
+    "id": 151,
+    "name": "Sevnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sevnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_logotip_obcina_sevnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Grb_logotip_obcina_sevnica.png"
+  },
+  {
+    "id": 177,
+    "name": "Šmarje pri Jelšah",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0marje_pri_Jel%C5%A1ah",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0marje_pri_Jel%C5%A1ah.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%C5%A0marje_pri_Jel%C5%A1ah.png"
+  },
+  {
+    "id": 58,
+    "name": "Jesenice",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Jesenice",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Jesenice.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Grb_ob%C4%8Dine_Jesenice.svg"
+  },
+  {
+    "id": 69,
+    "name": "Koper",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Koper",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coa_Koper.grb.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coa_Koper.grb.svg"
+  },
+  {
+    "id": 135,
+    "name": "Radeče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Rade%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Wappen_Rade%C4%8De.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Wappen_Rade%C4%8De.png"
+  },
+  {
+    "id": 204,
+    "name": "Zagorje ob Savi",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Zagorje_ob_Savi",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Zagorje_ob_Savi.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Coat_of_arms_of_Zagorje_ob_Savi.png"
+  },
+  {
+    "id": 62,
+    "name": "Kanal",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kanal_ob_So%C4%8Di",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kanal_ob_So%C4%8Di.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kanal_ob_So%C4%8Di.png"
+  },
+  {
+    "id": 73,
+    "name": "Kranj",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Kranj",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kranj_(with_white_outline).svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Kranj_%28with_white_outline%29.svg"
+  },
+  {
+    "id": 140,
+    "name": "Razkrižje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Razkri%C5%BEje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Razkri%C5%BEje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Razkri%C5%BEje.png"
+  },
+  {
+    "id": 196,
+    "name": "Videm",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Videm",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Videm.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Videm.png"
+  },
+  {
+    "id": 65,
+    "name": "Kobilje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kobilje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kobilje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kobilje.png"
+  },
+  {
+    "id": 155,
+    "name": "Slovenske Konjice",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Slovenske_Konjice",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Slovenske_Konjice_grb.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Slovenske_Konjice_grb.gif"
+  },
+  {
+    "id": 181,
+    "name": "Šoštanj",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0o%C5%A1tanj",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0o%C5%A1tanj.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%C5%A0o%C5%A1tanj.png"
+  },
+  {
+    "id": 16,
+    "name": "Cankova",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cankova",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Cankova.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cankova.png"
+  },
+  {
+    "id": 27,
+    "name": "Divača",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Diva%C4%8Da",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Wappen_Divaca.jpg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Wappen_Divaca.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Gornji Petrovci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Gornji_Petrovci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Gornji_Petrovci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Gornji_Petrovci.png"
+  },
+  {
+    "id": 202,
+    "name": "Vrhnika",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vrhnika",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:ObcinaVrhnika.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ObcinaVrhnika.png"
+  },
+  {
+    "id": 22,
+    "name": "Cirkulane",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cirkulane",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Cirkulane.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Cirkulane.png"
+  },
+  {
+    "id": 66,
+    "name": "Kočevje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ko%C4%8Devje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ko%C4%8Devje.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Coat_of_arms_of_Ko%C4%8Devje.svg"
+  },
+  {
+    "id": 96,
+    "name": "Markovci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Markovci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Markovci.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/COA-Markovci.gif"
+  },
+  {
+    "id": 51,
+    "name": "Hrastnik",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hrastnik",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Hrastnik.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arm_of_Hrastnik.png"
+  },
+  {
+    "id": 86,
+    "name": "Log - Dragomer",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Log_-_Dragomer",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Log-Dragomer.wappen.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Log-Dragomer.wappen.png"
+  },
+  {
+    "id": 123,
+    "name": "Podčetrtek",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Pod%C4%8Detrtek",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Pod%C4%8Detrtek.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pod%C4%8Detrtek.gif"
+  },
+  {
+    "id": 131,
+    "name": "Prevalje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Prevalje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Prevalje.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/COA-Prevalje.gif"
+  },
+  {
+    "id": 4,
+    "name": "Beltinci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Beltinci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Beltinci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beltinci.png"
+  },
+  {
+    "id": 56,
+    "name": "Ivančna Gorica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ivan%C4%8Dna_Gorica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Ivan%C4%8Dna_Gorica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Ivan%C4%8Dna_Gorica.png"
+  },
+  {
+    "id": 110,
+    "name": "Murska Sobota",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Murska_Sobota",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:MS_seal.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/MS_seal.svg"
+  },
+  {
+    "id": 145,
+    "name": "Rogaška Slatina",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Roga%C5%A1ka_Slatina",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Roga%C5%A1ka_Slatina.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Roga%C5%A1ka_Slatina.png"
+  },
+  {
+    "id": 49,
+    "name": "Hodoš",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hodo%C5%A1",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Hodo%C5%A1_grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hodo%C5%A1_grb.png"
+  },
+  {
+    "id": 105,
+    "name": "Mislinja",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mislinja",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Mislinja.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mislinja.png"
+  },
+  {
+    "id": 167,
+    "name": "Šalovci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0alovci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0alovci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%C5%A0alovci.png"
+  },
+  {
+    "id": 210,
+    "name": "Žiri",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDiri",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_%C5%BDiri.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Coat_of_arm_of_%C5%BDiri.png"
+  },
+  {
+    "id": 81,
+    "name": "Lendava",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lendava",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Lendava.grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lendava.grb.png"
+  },
+  {
+    "id": 99,
+    "name": "Metlika",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Metlika",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Metlika.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Metlika.png"
+  },
+  {
+    "id": 189,
+    "name": "Trzin",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trzin",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Trzin.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Trzin.png"
+  },
+  {
+    "id": 47,
+    "name": "Hajdina",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Hajdina",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Hajdina.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hajdina.png"
+  },
+  {
+    "id": 112,
+    "name": "Naklo",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Naklo",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Naklo.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_arm_of_Naklo.gif"
+  },
+  {
+    "id": 117,
+    "name": "Oplotnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Oplotnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Oplotnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Oplotnica.png"
+  },
+  {
+    "id": 198,
+    "name": "Vitanje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vitanje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Vitanje.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Vitanje.png"
+  },
+  {
+    "id": 38,
+    "name": "Duplek",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Duplek",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Duplek.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Coat_of_arms_of_Duplek.gif"
+  },
+  {
+    "id": 89,
+    "name": "Loški potok",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lo%C5%A1ki_Potok",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Lo%C5%A1ki_Potok.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/COA-Lo%C5%A1ki_Potok.gif"
+  },
+  {
+    "id": 154,
+    "name": "Slovenska Bistrica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Slovenska_Bistrica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Slovenska_Bistrica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Slovenska_Bistrica.png"
+  },
+  {
+    "id": 173,
+    "name": "Šentrupert",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entrupert",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_%C5%A0entrupert.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_%C5%A0entrupert.svg"
+  },
+  {
+    "id": 34,
+    "name": "Dolenjske Toplice",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dolenjske_Toplice",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Dolenjske_Toplice.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Dolenjske_Toplice.png"
+  },
+  {
+    "id": 127,
+    "name": "Polzela",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Polzela",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Polzela.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Polzela.png"
+  },
+  {
+    "id": 211,
+    "name": "Žirovnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDirovnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_%C5%BDirovnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coat_of_arm_of_%C5%BDirovnica.png"
+  },
+  {
+    "id": 1,
+    "name": "Ajdovščina",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ajdov%C5%A1%C4%8Dina",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_municipality_of_Ajdov%C5%A1%C4%8Dina.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Coat_of_arms_of_municipality_of_Ajdov%C5%A1%C4%8Dina.png"
+  },
+  {
+    "id": 82,
+    "name": "Litija",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Litija",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Litija.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_Litija.png"
+  },
+  {
+    "id": 111,
+    "name": "Muta",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Muta",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb.Muta.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Grb.Muta.png"
+  },
+  {
+    "id": 26,
+    "name": "Destrnik",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Destrnik",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Destrnik.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Destrnik.png"
+  },
+  {
+    "id": 35,
+    "name": "Domžale",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dom%C5%BEale",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dom%C5%BEale.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Dom%C5%BEale.png"
+  },
+  {
+    "id": 106,
+    "name": "Mokronog - Trebelno",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Mokronog_-_Trebelno",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Ob%C4%8Dine_Mokronog-Trebelno.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Grb_Ob%C4%8Dine_Mokronog-Trebelno.png"
+  },
+  {
+    "id": 70,
+    "name": "Kostanjevica na Krki",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kostanjevica_na_Krki",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arm_of_Kostanjevica_na_Krki.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Coat_of_arm_of_Kostanjevica_na_Krki.png"
+  },
+  {
+    "id": 79,
+    "name": "Laško",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_La%C5%A1ko",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_La%C5%A1ko.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_La%C5%A1ko.svg"
+  },
+  {
+    "id": 121,
+    "name": "Piran",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Piran",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Wappen_piran.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wappen_piran.svg"
+  },
+  {
+    "id": 209,
+    "name": "Žetale",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%BDetale",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-%C5%BDetale.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/COA-%C5%BDetale.gif"
+  },
+  {
+    "id": 36,
+    "name": "Dornava",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Dornava",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Dornava.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dornava.png"
+  },
+  {
+    "id": 118,
+    "name": "Ormož",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ormo%C5%BE",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ormo%C5%BE.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ormo%C5%BE.png"
+  },
+  {
+    "id": 148,
+    "name": "Ruše",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ru%C5%A1e",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Ru%C5%A1e.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ru%C5%A1e.png"
+  },
+  {
+    "id": 14,
+    "name": "Brezovica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Brezovica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Brezovica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Coat_of_arms_of_Brezovica.png"
+  },
+  {
+    "id": 10,
+    "name": "Borovnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Borovnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Borovnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_Arms_of_Borovnica.png"
+  },
+  {
+    "id": 92,
+    "name": "Lukovica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Lukovica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Lukovica.grb.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lukovica.grb.png"
+  },
+  {
+    "id": 156,
+    "name": "Sodražica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sodra%C5%BEica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sodra%C5%BEica-grb-novi.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sodra%C5%BEica-grb-novi.png"
+  },
+  {
+    "id": 178,
+    "name": "Šmarješke Toplice",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0marje%C5%A1ke_Toplice",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0marje%C5%A1ke_Toplice.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C5%A0marje%C5%A1ke_Toplice.png"
+  },
+  {
+    "id": 200,
+    "name": "Vojnik",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Vojnik",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb.Vojnik.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Grb.Vojnik.png"
+  },
+  {
+    "id": 67,
+    "name": "Komen",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Komen",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_Arms_of_Komen.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coat_of_Arms_of_Komen.gif"
+  },
+  {
+    "id": 143,
+    "name": "Ribnica",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Ribnica",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_ob%C4%8Dine_Ribnica.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Grb_ob%C4%8Dine_Ribnica.png"
+  },
+  {
+    "id": 74,
+    "name": "Kranjska Gora",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kranjska_Gora",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kranjska_Gora.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coat_of_arms_of_Kranjska_Gora.png"
+  },
+  {
+    "id": 77,
+    "name": "Kungota",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kungota",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Kungota.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_arms_of_Kungota.png"
+  },
+  {
+    "id": 157,
+    "name": "Solčava",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Sol%C4%8Dava",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Sol%C4%8Dava.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sol%C4%8Dava.png"
+  },
+  {
+    "id": 12,
+    "name": "Braslovče",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Braslov%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Logo_of_Braslovce.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Logo_of_Braslovce.svg"
+  },
+  {
+    "id": 59,
+    "name": "Jezersko",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Jezersko",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Jezersko.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Jezersko.png"
+  },
+  {
+    "id": 60,
+    "name": "Juršinci",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Jur%C5%A1inci",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Jur%C5%A1inci.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jur%C5%A1inci.png"
+  },
+  {
+    "id": 125,
+    "name": "Podvelka",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Podvelka",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Podvelka.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Podvelka.png"
+  },
+  {
+    "id": 94,
+    "name": "Makole",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Makole",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Grb_Ob%C4%8Dine_Makole.jpg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grb_Ob%C4%8Dine_Makole.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Radlje ob Dravi",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Radlje_ob_Dravi",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:COA-Radlje_ob_Dravi.gif",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/COA-Radlje_ob_Dravi.gif"
+  },
+  {
+    "id": 21,
+    "name": "Cerkvenjak",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Cerkvenjak",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Cerkvenjak.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Coat_of_arms_of_Cerkvenjak.png"
+  },
+  {
+    "id": 132,
+    "name": "Ptuj",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Ptuj",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:CoA_of_Ptuj.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/CoA_of_Ptuj.svg"
+  },
+  {
+    "id": 186,
+    "name": "Trbovlje",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Trbovlje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Trbovlje.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Trbovlje.svg"
+  },
+  {
+    "id": 3,
+    "name": "Apače",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Apa%C4%8De",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Apa%C4%8De.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Apa%C4%8De.svg"
+  },
+  {
+    "id": 17,
+    "name": "Celje",
+    "url": "https://sl.wikipedia.org/wiki/Mestna_ob%C4%8Dina_Celje",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Coat_of_arms_of_Celje.svg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_arms_of_Celje.svg"
+  },
+  {
+    "id": 71,
+    "name": "Kostel",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_Kostel",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:Kostel.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kostel.png"
+  },
+  {
+    "id": 171,
+    "name": "Šentjernej",
+    "url": "https://sl.wikipedia.org/wiki/Ob%C4%8Dina_%C5%A0entjernej",
+    "imgRedirectUrl": "https://sl.wikipedia.org/wiki/Slika:%C5%A0entjernej.png",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/%C5%A0entjernej.png"
   }
 ]

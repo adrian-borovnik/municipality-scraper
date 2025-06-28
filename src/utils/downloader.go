@@ -2,6 +2,7 @@ package utils
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"io"
 	"math/rand"
@@ -34,7 +35,6 @@ func downloadImage(url string, outFolder string, fileName string) error {
 	var err error
 
 	for attempt := 0; attempt <= maxRetries; attempt++ {
-		fmt.Println("Downloading image...", attempt)
 		res, err = http.Get(url)
 		if err != nil {
 			fmt.Println("Failed to download image:", err)
@@ -44,7 +44,6 @@ func downloadImage(url string, outFolder string, fileName string) error {
 		defer res.Body.Close()
 
 		if res.StatusCode == http.StatusOK {
-			fmt.Println("Image downloaded successfully")
 			break
 		} else if res.StatusCode == 429 {
 			fmt.Println("Rate limit exceeded")
@@ -81,8 +80,6 @@ func downloadImage(url string, outFolder string, fileName string) error {
 }
 
 func DownloadMunicipalityImages(municipalities []*Municipality, outFolder string, goRoutinesCount int64) {
-	fmt.Println("Downloading the coa images")
-
 	err := os.MkdirAll(outFolder, os.ModePerm)
 	if err != nil {
 		fmt.Printf("Error creating directory: %v\n", err)
@@ -113,8 +110,25 @@ func DownloadMunicipalityImages(municipalities []*Municipality, outFolder string
 			if err != nil {
 				fmt.Printf("Error downloading %s: %v\n", m.Name, err)
 			}
+
+			fmt.Println("Successfully downloaded image for", m.Name)
 		}(m)
 	}
 	wg.Wait()
+}
 
+func LoadMunicipalitiesFromFile(filePath string) ([]*Municipality, error) {
+	file, err := os.Open(filePath)
+	if err != nil {
+		return nil, fmt.Errorf("failed to open file: %w", err)
+	}
+	defer file.Close()
+
+	var municipalities []*Municipality
+	decoder := json.NewDecoder(file)
+	if err := decoder.Decode(&municipalities); err != nil {
+		return nil, fmt.Errorf("failed to decode JSON: %w", err)
+	}
+
+	return municipalities, nil
 }
