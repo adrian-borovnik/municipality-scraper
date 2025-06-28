@@ -80,7 +80,7 @@ func downloadImage(url string, outFolder string, fileName string) error {
 	return nil
 }
 
-func DownloadMunicipalityImages(municipalities map[int]*Municipality, outFolder string, goRoutinesCount int64) {
+func DownloadMunicipalityImages(municipalities []*Municipality, outFolder string, goRoutinesCount int64) {
 	fmt.Println("Downloading the coa images")
 
 	err := os.MkdirAll(outFolder, os.ModePerm)

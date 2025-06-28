@@ -1,8 +1,10 @@
 package utils
 
 import (
+	"encoding/json"
 	"fmt"
 	"log"
+	"os"
 	"strconv"
 	"strings"
 	"sync"
@@ -18,9 +20,9 @@ type Municipality struct {
 	ImgUrl     string `json:"imgUrl"`
 }
 
-func ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl string) map[int]*Municipality {
+func ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl string) []*Municipality {
 	var mutex sync.RWMutex
-	var municipalities = make(map[int]*Municipality)
+	municipalitiesMap := make(map[int]*Municipality)
 	count := 0
 
 	c := colly.NewCollector(
@@ -36,16 +38,15 @@ func ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl string) map[i
 		wikiUrl := e.Request.AbsoluteURL(e.Attr("href"))
 
 		mutex.Lock()
-		count++
+		defer mutex.Unlock()
 
+		count++
 		info := &Municipality{
 			Id:      count,
 			Name:    name,
 			WikiUrl: wikiUrl,
 		}
-
-		municipalities[count] = info
-		mutex.Unlock()
+		municipalitiesMap[count] = info
 	})
 
 	coaCollector.OnHTML(".infobox .infobox-full-data>table>tbody span>a[title]", func(e *colly.HTMLElement) {
@@ -57,16 +58,14 @@ func ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl string) map[i
 			return
 		}
 
-		href := e.Attr("href")
-
-		imgRedirectUrl := baseUrl + href
+		imgRedirectUrl := baseUrl + e.Attr("href")
 
 		idInt, _ := strconv.Atoi(id)
 		mutex.Lock()
-		m := municipalities[idInt]
-		m.ImgPageUrl = imgRedirectUrl
+		if m, ok := municipalitiesMap[idInt]; ok {
+			m.ImgPageUrl = imgRedirectUrl
+		}
 		mutex.Unlock()
-
 	})
 
 	imageCollector.OnHTML("#bodyContent .fullMedia .internal", func(e *colly.HTMLElement) {
@@ -77,47 +76,61 @@ func ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl string) map[i
 
 		idInt, _ := strconv.Atoi(id)
 		mutex.Lock()
-		m := municipalities[idInt]
-		m.ImgUrl = imgUrl
+		if m, ok := municipalitiesMap[idInt]; ok {
+			m.ImgUrl = imgUrl
+		}
 		mutex.Unlock()
 	})
 
 	fmt.Println("Searching the wiki websites")
-	err := c.Visit(homePageUrl)
-	if err != nil {
+	if err := c.Visit(homePageUrl); err != nil {
 		log.Fatal(err)
 	}
 	c.Wait()
 
 	fmt.Println("Visiting the municipalities pages to get the coa imgPageUrl")
-	for _, m := range municipalities {
+	for _, m := range municipalitiesMap {
 		ctx := colly.NewContext()
 		ctx.Put("id", strconv.Itoa(m.Id))
-
-		err := coaCollector.Request("GET", m.WikiUrl, nil, ctx, nil)
-		if err != nil {
-			fmt.Println(err)
-			continue
-		}
+		_ = coaCollector.Request("GET", m.WikiUrl, nil, ctx, nil)
 	}
 	coaCollector.Wait()
 
 	fmt.Println("Visiting the municipalities pages to get the coa imgUrl")
-	for _, m := range municipalities {
+	for _, m := range municipalitiesMap {
 		if m.ImgPageUrl == "" {
 			continue
 		}
-
 		ctx := colly.NewContext()
 		ctx.Put("id", strconv.Itoa(m.Id))
-
-		err := imageCollector.Request("GET", m.ImgPageUrl, nil, ctx, nil)
-		if err != nil {
-			fmt.Println(err)
-			continue
-		}
+		_ = imageCollector.Request("GET", m.ImgPageUrl, nil, ctx, nil)
 	}
 	imageCollector.Wait()
 
-	return municipalities
+	// Convert to slice
+	municipalitySlice := make([]*Municipality, 0, len(municipalitiesMap))
+	for _, m := range municipalitiesMap {
+		municipalitySlice = append(municipalitySlice, m)
+	}
+
+	return municipalitySlice
+}
+
+func SaveMunicipalityDataAsJson(municipalities []*Municipality, filePath string) {
+	file, err := os.Create(filePath)
+	if err != nil {
+		fmt.Printf("Failed to create file: %v\n", err)
+		return
+	}
+	defer file.Close()
+
+	encoder := json.NewEncoder(file)
+	encoder.SetIndent("", "  ")
+
+	if err := encoder.Encode(municipalities); err != nil {
+		fmt.Printf("Failed to encode JSON: %v\n", err)
+		return
+	}
+
+	fmt.Printf("Saved data to %s\n", filePath)
 }

@@ -10,15 +10,18 @@ const (
 	domain      = "sl.wikipedia.org"
 	baseUrl     = protocol + "://" + domain
 	homePageUrl = baseUrl + "/wiki/Seznam_ob%C4%8Din_v_Sloveniji"
-	outFolder   = "./data"
 
+	jsonDataFilePath = "./data.json"
+
+	imagesOutFolder                    = "./coat_of_arms"
 	imageDownloadGoRoutinesCount int64 = 5
 )
 
 func main() {
 	municipalities := utils.ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl)
-
 	fmt.Println("Municipalities found:", len(municipalities))
 
-	utils.DownloadMunicipalityImages(municipalities, outFolder, imageDownloadGoRoutinesCount)
+	utils.SaveMunicipalityDataAsJson(municipalities, jsonDataFilePath)
+
+	utils.DownloadMunicipalityImages(municipalities, imagesOutFolder, imageDownloadGoRoutinesCount)
 }
