@@ -18,13 +18,14 @@ type Municipality struct {
 	ImgUrl     string `json:"imgUrl"`
 }
 
-func ScrapeMunicipalityData(protocol, baseUrl, homePageUrl string) map[int]*Municipality {
+func ScrapeMunicipalityData(protocol, domain, baseUrl, homePageUrl string) map[int]*Municipality {
 	var mutex sync.RWMutex
 	var municipalities = make(map[int]*Municipality)
 	count := 0
 
 	c := colly.NewCollector(
 		colly.Async(true),
+		colly.AllowedDomains(domain),
 	)
 
 	coaCollector := c.Clone()
